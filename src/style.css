@@ -4,14 +4,23 @@ img {
     margin-top: 30px;
 }
 
+h2 {
+  text-align: center;
+}
+
+
 body {
     color: rgb(58, 144, 206);
+    color: #39629A;
 }
 
 .call {
     border: none;
     background-color: white;
     font-size: 20px;
-    margin-top: 60px;
+    margin-top: 100px;
+    padding-left: 0px;
     margin-left: 0px;
+    position: relative;
+    left: -40px;
 }
