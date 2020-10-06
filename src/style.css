@@ -1,0 +1,17 @@
+img {
+    display: block;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+body {
+    color: rgb(58, 144, 206);
+}
+
+.call {
+    border: none;
+    background-color: white;
+    font-size: 20px;
+    margin-top: 60px;
+    margin-left: 0px;
+}
